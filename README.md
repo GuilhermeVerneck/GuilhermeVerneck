@@ -21,7 +21,7 @@ Sou um estudante de Matemática Computacional fascinado pela interseção entre 
 - 🔗 [**Otimização de Produção — Projeto Ball**](https://github.com/GuilhermeVerneck/Projeto-de-Programa-o-Linear) — modelagem de Programação Linear (Julia/Gurobi) para planejamento logístico-produtivo multi-planta
 - 🔗 [**Eigenfaces — Reconhecimento Facial com PCA**](https://github.com/GuilhermeVerneck/Projeto-PCA) — implementação de PCA em Python para controle de acesso facial
 - 🔗 [**Acesso Financeiro e Qualidade de Vida**](https://github.com/GuilhermeVerneck/acesso-financeiro-qualidade-vida) — artigo de econometria com microdados da POF 2017-2018
-- 🔗 [**Loja de Discos — SciTecJr**]([https://github.com/GuilhermeVerneck/vinyl-store-ej]) — protótipo de e-commerce (Node.js/Express), projeto em grupo na empresa júnior
+- 🔗 [**Loja de Discos — SciTecJr**](https://github.com/GuilhermeVerneck/vinyl-store-ej) — protótipo de e-commerce (Node.js/Express), projeto em grupo na empresa júnior
 
 ### 🌱 O que estou aprendendo agora
 
