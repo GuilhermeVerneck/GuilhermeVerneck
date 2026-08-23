@@ -28,6 +28,7 @@ Sou um estudante de Matemática Computacional fascinado pela interseção entre 
 - Aprofundamento em modelos matemáticos para economia e finanças
 - Resolução computacional de problemas de Álgebra Linear e Métodos Numéricos
 - SQL e ferramentas de Pesquisa Operacional
+- A matemática por trás das Redes Neurais Artificiais 
 
 ### 📫 Como me encontrar
 
